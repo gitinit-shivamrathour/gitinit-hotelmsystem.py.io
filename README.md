@@ -19,6 +19,6 @@ A hotel management system is a set of hotel software solutions that keep operati
 Contributors names and contact info
 
 Mr. Shivam Singh Rajput  
-email: rtshivamsingh744@gmail.com
+email: shivampublic2001@gmail.com
 
 ### i/o snaps
